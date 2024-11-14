@@ -1,0 +1,29 @@
+Função: Continuando os estudos sobre as estruturas de controle.
+
+·       If – elif – else
+
+·       Continuar trabalhando a lógica por condição.
+
+Vídeo sugestivo:
+
+·       Curso Python #012 - Condições Aninhadas:
+
+https://www.youtube.com/watch?v=j9bYDjaAYzw&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=3
+
+Sugestões de práticas de didáticas:
+
+·       Exercício Python #033 - Maior e menor valores:
+
+https://www.youtube.com/watch?v=a_8FbW5oH6I&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=45
+
+·       Exercício Python #037 - Conversor de Bases Numéricas:
+
+https://www.youtube.com/watch?v=B3F0IjH5WAM&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=5
+
+·       Exercício Python #038 - Comparando números:
+
+https://www.youtube.com/watch?v=iuPbB9uHczM&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=6
+
+·       Exercício Python #045 - GAME: Pedra Papel e Tesoura:
+
+https://www.youtube.com/watch?v=tapTa6KVG-A&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=13

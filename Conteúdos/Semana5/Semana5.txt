@@ -1,0 +1,29 @@
+Função: Iniciar os estudos sobre as estruturas de repetição, apresentando o ENQUANTO (While em Python).
+
+·       Apresentar o uso de um contador e/ou acumulador.
+
+
+
+A aula sobre o WHILE do Grilo irá ser disponibilizada na Semana 6.
+
+
+
+Vídeos externos disponibilizado ao aluno:
+
+·       Curso Python #014 - Estrutura de repetição while:
+
+https://www.youtube.com/watch?v=LH6OIn2lBaI&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=26
+
+Sugestões de práticas de didáticas:
+
+·       Exercício Python #059 - Criando um Menu de Opções:
+
+https://www.youtube.com/watch?v=OBJL5vPj4-E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=29
+
+·       Exercício Python #063 - Sequência de Fibonacci v1.0:
+
+https://www.youtube.com/watch?v=w7yn1_Mfu0E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=33
+
+·       Exercício Python #065 - Maior e Menor valores:
+
+https://www.youtube.com/watch?v=QNPuPlPM--0&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=35

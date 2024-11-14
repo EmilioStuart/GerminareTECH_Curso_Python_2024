@@ -1,0 +1,57 @@
+Função: Continuar no estudo do While, apresentando agora:
+
+·       O loop infinito;
+
+·       break/continue;
+
+·       Validação de dados;
+
+Apresentar como Python trabalha com a concatenação de caracteres, apresentando as funções e opções disponíveis para se manipular Strings:
+
+·       upper(), lower(), split(), replace(), etc.    
+
+
+
+Vídeos disponibilizados ao aluno:
+
+·      Curso Python #09 - Manipulando Texto:
+
+https://www.youtube.com/watch?v=a7DH88vk2Sk&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=32
+
+​·       Curso Python #15 - Interrompendo repetições while:
+
+https://www.youtube.com/watch?v=1OFp_-R2B2A&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=36
+
+Sugestões de práticas de didáticas:
+
+·      Exercício Python #023 - Separando dígitos de um número:
+
+https://www.youtube.com/watch?v=wD2aerLMBWA&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=34
+
+·      Exercício Python #025 - Procurando uma string dentro de outra:
+
+https://www.youtube.com/watch?v=WHWGz2Dy1ZU&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=36
+
+·      Exercício Python #026 - Primeira e última ocorrência de uma string:
+
+https://www.youtube.com/watch?v=23UOVEetNPY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=37
+
+·      Exercício Python #027 - Primeiro e último nome de uma pessoa:
+
+https://www.youtube.com/watch?v=SifYYsXhLM8&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=38
+
+·       Exercício Python #057 - Validação de Dados:
+
+https://www.youtube.com/watch?v=JGztEBLGj5E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=27
+
+·       Exercício Python #058 - Jogo da Adivinhação v2.0:
+
+https://www.youtube.com/watch?v=-QkOIHJ1Chw&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=28
+
+·       Exercício Python #068 - Jogo do Par ou Ímpar:
+
+https://www.youtube.com/watch?v=EIzgKCCDdc0&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=39
+
+·       Exercício Python #071 - Simulador de Caixa Eletrônico:
+
+https://www.youtube.com/watch?v=_XGgwltYpYk&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=42

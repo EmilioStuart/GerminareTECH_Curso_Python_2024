@@ -1,0 +1,35 @@
+Função: Apresentar a importação de módulos em Python (math, date e outras). Também apresentar o que são funções e a sintaxe de Python para trabalhar com funções:
+
+·       Explicar o definition function;
+
+·       Explicar variáveis locais e globais;
+
+·       Explicar passagem de parâmetros.
+
+Vídeos disponibilizados ao aluno:
+
+·       Curso Python #08 - Utilizando Módulos
+
+https://www.youtube.com/watch?v=oOUyhGNib2Q&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=24
+
+·       Curso Python #20 - Funções (Parte 1):
+
+https://www.youtube.com/watch?v=ezfr9d7wd_k&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=30
+
+Sugestões de práticas de didáticas:
+
+·       Exercício Python #016 - Quebrando um número:
+
+https://www.youtube.com/watch?v=-iSbDpl5Jhw&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=26
+
+·       Exercício Python #020 - Sorteando uma ordem na lista:
+
+https://www.youtube.com/watch?v=OPh0nngbBSY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=30
+
+·       Exercício Python #027 - Primeiro e último nome de uma pessoa:
+
+https://www.youtube.com/watch?v=OPh0nngbBSY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=30
+
+·       Exercício Python #096 - Função que calcula área:
+
+https://www.youtube.com/watch?v=oV1s53YGtvE&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=31

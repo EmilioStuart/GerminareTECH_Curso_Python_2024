@@ -1,0 +1,57 @@
+Função:Trabalhar a sintaxe de Python, apresentando:
+
+·      os tipos de dados;
+
+·      conceitos de variáveis;
+
+·      operadores aritméticos, trabalhando a precedência dos operadores.
+
+·      Mostrar como é feita a entrada de dados e as saídas formatadas em Python.
+
+Vídeos de apoio externo:
+
+·      Curso Python #04 - Primeiros comandos em Python3:
+
+https://www.youtube.com/watch?v=31llNGKWDdo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=5
+
+·      Curso Python #06 - Tipos Primitivos e Saída de Dados:
+
+https://www.youtube.com/watch?v=hdDHg1p3YVc&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=9
+
+·      Curso Python #07 - Operadores Aritméticos:
+
+https://www.youtube.com/watch?v=Vw6gLypRKmY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=13
+
+Sugestões de práticas:
+
+·      Exercício Python #004 - Dissecando uma Variável:
+
+https://www.youtube.com/watch?v=tHYxjJxtJko&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=12
+
+·      Exercício Python #005 - Antecessor e Sucessor:
+
+https://www.youtube.com/watch?v=664e0G_S9nU&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=14
+
+·      Exercício Python #007 - Média Aritmética:
+
+https://www.youtube.com/watch?v=_QfISzy0IKs&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=16
+
+·      Exercício Python #008 - Conversor de Medidas:
+
+https://www.youtube.com/watch?v=KjcdG05EAZc&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=17
+
+·      Exercício Python #009 – Tabuada:
+
+https://www.youtube.com/watch?v=qajq3SI0QQs&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=18
+
+·      Exercício Python #011 - Pintando Parede:
+
+https://www.youtube.com/watch?v=mzSJpn9ldt4&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=20
+
+·      Exercício Python #012 - Calculando Descontos:
+
+https://www.youtube.com/watch?v=4MAmKOT9FeU&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=21
+
+·      Exercício Python #014 - Conversor de Temperaturas:
+
+https://www.youtube.com/watch?v=9l_Gay8BuAw&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=23

@@ -1,0 +1,21 @@
+Função: Apresentar os operadores relacionais e os operadores lógicos em Python:
+
+·       Uso e precedência dos operadores.
+
+·       Iniciar o estudo das estruturas de controle, condições simples e compostas IF-ELSE.
+
+Vídeos externos para o candidato:
+
+·       Curso Python #10 - Condições (Parte 1):
+
+https://www.youtube.com/watch?v=K10u3XIf1-Q&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=38
+
+Sugestões de práticas de didáticas:
+
+·       Exercício Python #028 - Jogo da Adivinhação v.1.0:
+
+https://www.youtube.com/watch?v=kchC5KLZSZ4&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=40
+
+·       Exercício Python #031 - Custo da Viagem:
+
+https://www.youtube.com/watch?v=PGqHyzWoagc&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=43

@@ -1,0 +1,25 @@
+Função: Apresentar a estrutura de repetição com a variável de controle, o FOR:
+
+·       Diferenciar o WHILE do FOR.
+
+·       Utilizar o operador IN;
+
+Vídeos disponibilizados ao aluno:
+
+·       Curso Python #013 - Estrutura de repetição for:
+
+https://www.youtube.com/watch?v=cL4YDtFnCt4&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=13
+
+Sugestões de práticas de didáticas:
+
+·       Exercício Python #047 - Contagem de pares:
+
+https://www.youtube.com/watch?v=Qws8-E-YrlY&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=16
+
+·       Exercício Python #048 - Soma ímpares múltiplos de três:
+
+https://www.youtube.com/watch?v=iHjsUxNA-wo&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=17
+
+·       Exercício Python #054 - Grupo da Maioridade:
+
+https://www.youtube.com/watch?v=IL5iBWoKRIs&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&index=23

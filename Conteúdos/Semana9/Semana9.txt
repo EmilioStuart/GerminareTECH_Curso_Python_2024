@@ -1,0 +1,52 @@
+​Função:Introduzir sobre as variáveis do tipo conjunto, ou COLEÇÕES em Python. Nesse primeiro momento apresentar o conceito das:​
+
+·       TUPLAS.
+
+·       SET.
+
+·      LISTAS, incluindo o estudo das funções de mutação de listas.
+
+Vídeos disponibilizados ao aluno:
+
+·       Curso Python #16 – Tuplas:
+
+https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
+
+·       O que são Sets (Conjuntos) - Curso de Programação com Python:
+
+https://www.youtube.com/watch?v=7zLXR8Zj9EM
+
+
+·      Curso Python #17 - Listas (Parte 1):
+
+https://www.youtube.com/watch?v=N1hTsbW50eM&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=8
+
+·      Curso Python #17 - Listas (Parte 2):
+
+https://www.youtube.com/watch?v=YV_JQmZNFsk&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=16
+
+Sugestões de práticas de didáticas:
+
+·       Exercício Python #073 - Tuplas com Times de Futebol:
+
+https://www.youtube.com/watch?v=RexybLcGewA&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=4
+
+·       Exercício Python #074 - Maior e menor valores em Tupla:
+
+https://www.youtube.com/watch?v=mlwt2CRQkTQ&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=5
+
+·       Exercício Python #077 - Contando vogais em Tupla:
+
+https://www.youtube.com/watch?v=8BgSqrOpKvU&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=8
+
+·       Exercício Python #079 - Valores únicos em uma Lista:
+
+https://www.youtube.com/watch?v=LkAzRnc_GPk&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=11
+
+·       Exercício Python #081 - Extraindo dados de uma Lista:
+
+https://www.youtube.com/watch?v=SXJKAVVlvGA&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=13
+
+·       Exercício Python #083 - Validando expressões matemáticas:
+
+https://www.youtube.com/watch?v=dvhP41Z7TLk&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=15

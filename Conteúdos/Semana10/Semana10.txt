@@ -1,0 +1,19 @@
+Função: Continuando o estudo sobre as coleções, nessa semana irá ser apresentado:
+
+·       DICIONÁRIOS, incluindo a apresentação do conceito de objeto.
+
+Vídeos disponibilizados ao aluno:
+
+·       Curso Python #19 – Dicionários:
+
+https://www.youtube.com/watch?v=ZWj8o692qGY&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=23
+
+Sugestões de práticas de didáticas:
+
+·       Exercício Python #090 - Dicionário em Python:
+
+https://www.youtube.com/watch?v=HipQYUk4koA&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=24
+
+·       Exercício Python #092 - Cadastro de Trabalhador em Python:
+
+https://www.youtube.com/watch?v=Vsqemzdrj78&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=26
